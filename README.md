@@ -1,2 +1,2 @@
 # Development-Board-C
-STM32F407IGH6
+开发板 C 芯片类型 STM32F407IGH6
